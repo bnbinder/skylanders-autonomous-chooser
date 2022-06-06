@@ -2,6 +2,7 @@
 
 The sequel to the beloved "Skylanders: Autonomous Adventure" is finally here! Introducing "Skylanders: Autonomous Chooser", the newest installment to the "Skylanders: Autonomous" series. In this exciting and useless installment, you can now assign a certain autonomous command group as your autonomous command group with skylanders! <br>
 
+need to download code from the "arduino skylanders roborio code" repo onto the arduino
 all you need is a few skylanders, an arduino, an arduino rfid reader, a roborio, an led, and you should be good.<br>
 
 notes: <br>
